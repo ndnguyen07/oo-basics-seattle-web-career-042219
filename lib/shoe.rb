@@ -12,3 +12,6 @@ class Shoe
   end
   
 end
+
+
+N = Shoe.new
