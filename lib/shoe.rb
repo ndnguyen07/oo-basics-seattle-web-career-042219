@@ -15,3 +15,4 @@ end
 
 
 new = Shoe.new("new")
+new.condition = new
